@@ -1,4 +1,30 @@
-   Hi 👋, This is Ajay R Bandiwad 
+<h1 align="center">Hi 👋, I'm Ajay R Bandiwad</h1>
+
+![github-header-image](https://github.com/Gouravspopale/Gouravspopale/assets/124276485/5264e948-d44c-42bb-86c0-74c432a5ad12)
+
+
+<h3 align="center">I'm currently pursuing my Master's🎓 at Karnataka University,DHARWAD</h3>
+<!-- <img align="rigth" alt="coding" widh="200"  src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg" -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AjayBandiwad&label=Profile%20views&color=0e75b6&style=flat" alt="ajaybandiwad" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="ajaybandiwad" alt="ajaybandiwad" /></a> </p>
+
+- 🔭 I’m currently working on **Smart Crop**
+
+- 🌱 I’have currently Finished **AI With Python** And Pursuving with **Data Analaysis**
+
+- i'am very much intrested✨ in Working on Iot projects🚀 and Data visualization📊 part to get good insights from the work
+
+- I have completed my python course in #kaggal=: https://drive.google.com/file/d/1jS4eRTshGwYNsM2U1OhSO4FByqC0NZm4/view?usp=sharing
+
+- 📫 How to reach me **gouravspopale111@gmail.com**
+
+- ⚡ Fun fact **🎗️Committing to the journey, pixel by pixel, line by line✨**
+
+-  🎖️ I have Earned Badges in = https://www.cloudskillsboost.google/profile/badges
+
+-  Google dev..https://g.dev/Gouravspopale
 
 
 
