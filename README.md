@@ -6,7 +6,7 @@
 <h3 align="center">I'm currently pursuing my Master's🎓 at Karnataka University,DHARWAD</h3>
 <!-- <img align="rigth" alt="coding" widh="200"  src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg" -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AjayBandiwad&label=Profile%20views&color=0e75b6&style=flat" alt="ajaybandiwad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaybandiwad&label=Profile%20views&color=0e75b6&style=flat" alt="ajaybandiwad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="ajaybandiwad" alt="ajaybandiwad" /></a> </p>
 
