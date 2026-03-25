@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay R Bandiwad</h1>
 
-![github-header-image](https://github.com/Gouravspopale/Gouravspopale/assets/124276485/5264e948-d44c-42bb-86c0-74c432a5ad12)
+![github-header-image](https://github.com///assets/124276485/5264e948-d44c-42bb-86c0-74c432a5ad12)
 
 
 <h3 align="center">I'm currently pursuing my Master's🎓 at Karnataka University,DHARWAD</h3>
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="ajaybandiwad" alt="ajaybandiwad" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Crop**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’have currently Finished **AI With Python** And Pursuving with **Data Analaysis**
 
@@ -18,13 +18,13 @@
 
 - I have completed my python course in #kaggal=: https://drive.google.com/file/d/1jS4eRTshGwYNsM2U1OhSO4FByqC0NZm4/view?usp=sharing
 
-- 📫 How to reach me **gouravspopale111@gmail.com**
+- 📫 How to reach me **ajaybandiwad3426@gmail.com**
 
 - ⚡ Fun fact **🎗️Committing to the journey, pixel by pixel, line by line✨**
 
--  🎖️ I have Earned Badges in = https://www.cloudskillsboost.google/profile/badges
+-  madam
 
--  Google dev..https://g.dev/Gouravspopale
+-  
 
 
 
