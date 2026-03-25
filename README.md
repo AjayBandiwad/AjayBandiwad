@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay R Bandiwad</h1>
 
-![github-header-image](https://github.com/ajayrbandiwad//assets/124276485/5264e948-d44c-42bb-86c0-74c432a5ad12)
+![github-header-image](https://github.com/AjayBandiwad/AjayBandiwad/assets/124276485/5264e948-d44c-42bb-86c0-74c432a5ad12)
 
 
 <h3 align="center">I'm currently pursuing my Master's🎓 at Karnataka University,Dharwad</h3>
@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **🎗️Committing to the journey, pixel by pixel, line by line✨**
 
--  madam
+-  
 
 -  
 
