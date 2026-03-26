@@ -14,7 +14,7 @@
 
 - 🌱 I’have currently Finished **AI With Python** And Pursuving with **Data Analaysis**
 
-- i'am very much intrested✨ in Working on Iot projects🚀 and Data visualization📊 part to get good insights from the work
+- i'am very much intrested✨ in Working on projects🚀 and Data visualization📊 part to get good insights from the work
 
 - I have completed my python course in #kaggal=: https://drive.google.com/file/d/1jS4eRTshGwYNsM2U1OhSO4FByqC0NZm4/view?usp=sharing
 
