@@ -3,7 +3,7 @@
 ![github-header-image](https://github.com/AjayBandiwad/AjayBandiwad/assets/124276485/5264e948-d44c-42bb-86c0-74c432a5ad12)
 
 
-<h3 align="center">I'm currently pursuing my Master's🎓 at Karnataka University,Dharwad</h3>
+<h3 align="center">I'm currently pursuing my Master's🎓 in Karnataka University,Dharwad</h3>
 <!-- <img align="rigth" alt="coding" widh="200"  src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg" -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaybandiwad&label=Profile%20views&color=0e75b6&style=flat" alt="ajaybandiwad" /> </p>
