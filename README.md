@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay R Bandiwad</h1>
 
-![github-header-image](https://github.com/AjayBandiwad/AjayBandiwad/assets/124276485/5264e948-d44c-42bb-86c0-74c432a5ad12)
+![github-header-image](https://github.com/ajaybandiwad/ajaybandiwad/assets/124276485/5264e948-d44c-42bb-86c0-74c432a5ad12)
 
 
 <h3 align="center">I'm currently pursuing my Master's🎓 in Karnataka University,Dharwad</h3>
@@ -24,7 +24,7 @@
 
 -  Building my carrier into Data Analytics to talk with beautiful insights in the form of dashboards
 
--  
+- 
 
 
 
@@ -33,6 +33,7 @@
 
 </p>
 <a href="https://instagram.com/__aj__04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__aj__04" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/ajaybandiwad/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="30"/> 
 
 <a href="https://www.kaggle.com/ajaybandiwad" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="30"/> </a>
