@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Handwritten Text Recognition **
 
-- 🌱 I’have currently Finished **AI With Python** And Pursuving with **Data Analaysis**
+- 🌱 I’have currently Finished **** And Pursuving with **Data Analaysis**
 
 - i'am very much intrested✨ in Working on Data Analysis projects🚀 and Data visualization📊 part to get good insights from the work
 
