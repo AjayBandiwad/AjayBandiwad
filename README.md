@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **🎗️Committing to the journey, pixel by pixel, line by line✨**
 
--  
+-  Building my carrier into Data Analytics to talk with beautiful insights in the form of dashboards
 
 -  
 
