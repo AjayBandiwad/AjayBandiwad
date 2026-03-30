@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="ajaybandiwad" alt="ajaybandiwad" /></a> </p>
 
-- 🔭 I’m currently working on **Handwritten Text Recognition **
+- 🔭 I’m currently working on this project **Handwritten Text Recognition **
 
 - 🌱 I’have currently Finished **AI with Python** And Pursuving with **Data Analaysis**
 
