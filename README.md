@@ -30,8 +30,6 @@
 
 
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ajaybandiwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ajaybandiwad" height="30" width="40" /></a>
-
-</p>
 <a href="https://instagram.com/__aj__04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__aj__04" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ajaybandiwad/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="30"/> 
 <a href="https://kaggle.com/https://www.kaggle.com/ajaybandiwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ajaybandiwad" height="30" width="40" /></a>
